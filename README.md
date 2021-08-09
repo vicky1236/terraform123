@@ -4,7 +4,7 @@ PROVISIONING AKS CLUSTER
 
 Cluster module
 ----------------
-creates aks cluster
+creates aks cluster  
 using private dns
 ----------------
 
