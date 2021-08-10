@@ -54,10 +54,10 @@ Running Terraform and Provisioning the stack
  ```
   rggr hug hh
 ```
-## Accessing AKS Cluster
- <a align="center"> 
-   <img src="/home/hasher/Pictures/Screenshot from 2021-08-03 22-57-29.png" alt="Logo" width="80" height="80">
- </a>
+
+
+<img src="/home/hasher/Pictures/Screenshot from 2021-08-03 22-57-29.png" alt="Logo" width="80" height="80">
+ 
  
  
 
