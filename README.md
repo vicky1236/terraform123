@@ -28,8 +28,7 @@ storage = {
         }
     } 
 ```
-Based on the value that we provide at create_storage stack will be created if create_storage is false stack will not be created if it's  
-true stack will be created.
+Based on the value that we provide at create_storage stack will be created if create_storage is false stack will not be created if it's  true stack will be created.
 
 
 
