@@ -56,7 +56,7 @@ Running Terraform and Provisioning the stack
 ```
 
 
-<"/home/hasher/Pictures/Screenshot from 2021-08-03 22-57-29.png">
+![](modules/Screenshot from 2021-04-12 15-23-52.png)
  
  
  
