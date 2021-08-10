@@ -56,7 +56,7 @@ Running Terraform and Provisioning the stack
 ```
 ## Accessing AKS Cluster
  <a align="center"> 
-   <img src="Pictures/Screenshot from 2021-08-03 22-57-29.png" alt="Logo" width="80" height="80">
+   <img src="/home/hasher/Pictures/Screenshot from 2021-08-03 22-57-29.png" alt="Logo" width="80" height="80">
  </a>
  
  
