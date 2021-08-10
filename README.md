@@ -56,7 +56,7 @@ Running Terraform and Provisioning the stack
 ```
 
 
-![]( modules/Screenshot from 2021-04-12 15-23-52.png )
+![]( modules/bg.png )
  
  
  
